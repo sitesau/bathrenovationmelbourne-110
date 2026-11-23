@@ -1,0 +1,22 @@
+{
+  "wheel_id": 951,
+  "structure": "umbrella",
+  "slug": "bathrenovationmelbourne-110",
+  "project": "bathroom-renovations-melbourne-seasonal-timing-9797371a1d822cda",
+  "parent_t1_ref": "bathrenovationmelbourne-154",
+  "node_role": "feeder",
+  "money_target": "bathrenovationmelbourne.com.au",
+  "primary_kw": "bathroom renovations melbourne seasonal timing",
+  "intended_url": "http://bathroom-renovations-melbourne-seasonal-timing-9797371a1d822cda.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "8c7424f2e1d49922",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/bathroom-renovations-melbourne-diy-vs-professional-9fdeadaf9d98/",
+      "anchor": "https://sites-e470-2.web.app/bathroom-renovations-melbourne-diy-vs-professional-9fdeadaf9d98/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
